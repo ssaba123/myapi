@@ -15,4 +15,4 @@ USA users: '/api/v1/usa' - This returns all the users from USA
 
 Brazil users: '/api/v1/brazil' - This returns all the users from Brazil
 
-Other: '/api/v1/OTHERPARAMTER - This returns a message stating the page for parameter has not been set up yet
+Other: '/api/v1/<OTHERPARAMTER> - This returns a message stating the page for parameter has not been set up yet
